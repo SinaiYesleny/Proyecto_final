@@ -1,5 +1,5 @@
-# Archivos iniciales de mi proyecto final
+# Archivos iniciales de mi primer página Web
 
 ## Descripción de los archivos
 
-mi-pag-web: Contiene el código html de la página web para mi proyecto final
+mi-pag-web: Contiene el código html de la página web
