@@ -2,4 +2,4 @@
 
 ## Descripción de los archivos
 
-mi-pag-web: Contiene el código html de la página
+mi-pag-web: Contiene el código html de la página web para mi proyecto final
